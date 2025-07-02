@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Captura_de_tela_2025-06-16_194120-removebg-preview.png</file>
+    <file>github.svg</file>
+    <file>settings.svg</file>
+    <file>align-justify(2).svg</file>
+    <file>arrow-down-left.svg</file>
+    <file>archive.svg</file>
+    <file>arrow-down-left.svg</file>
+    <file>box.svg</file>
+    <file>external-link.svg</file>
+    <file>maximize-2.svg</file>
+    <file>search.svg</file>
+    <file>user(1).svg</file>
+    <file>x(1).svg</file>
+    <file>align-center.svg</file>
+  </qresource>
+</RCC>
